@@ -1,9 +1,9 @@
 CohortDiagnostics template repository
 ========================================================================================================================================================
 
-## To Prepare the repo
-1) Fork this repository to your own github acount (top right part: Fork --> + Create a new fork).
-2) Add the cohort that you want to use in your cohort diagnostics in the Cohorts folder.
+## To prepare the repo
+1) Add the cohort definitions that you want to use in your cohort diagnostics in the Cohorts folder.
+2) Now the code is ready to run or share!
 
 ## To Run
 1) Download this entire repository (you can download as a zip folder using Code -> Download ZIP, or you can use GitHub Desktop). 
