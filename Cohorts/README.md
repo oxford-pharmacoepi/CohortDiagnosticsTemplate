@@ -1,4 +1,4 @@
-Results folder
+Cohorts folder
 ========================================================================================================================================================
 
-This folder will contain the CohortDiagnostics results. After a successful run, there will be a zipped folder with the results to share. 
+Put the cohort definitions (json files) that you want to use is your cohort diagnostics in this folder.
