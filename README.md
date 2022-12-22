@@ -1,6 +1,9 @@
 CohortDiagnostics template repository
 ========================================================================================================================================================
 
+## To Prepare the repo
+1) Fork this repository to your own github acount (top right part: Fork --> + Create a new fork).
+2) Add the cohort that you want to use in your cohort diagnostics in the Cohorts folder.
 
 ## To Run
 1) Download this entire repository (you can download as a zip folder using Code -> Download ZIP, or you can use GitHub Desktop). 
@@ -8,5 +11,5 @@ CohortDiagnostics template repository
 3) Open and work though the <i>CodeToRun.R</i> file which should be the only file that you need to interact with. Run the lines in the file, adding your database specific information and so on (see comments within the file for instructions). The last line of this file will run the study <i>(source(here("RunStudy.R"))</i>.     
 4) After running you should then have a zip folder with results to share in your output folder.
 
-## Changing/ adding cohort definitions
-Cohort definitions are in the folder Cohorts. Whatever cohorts are present in this folder will be run, with the file name used as the name for the cohort.
+## To deploy the results
+1) Use the template:: xxxx
