@@ -3,8 +3,8 @@ CohortDiagnostics template repository
 
 ## To create and prepare the repo
 1) Create your own repo using this template:
-  1.1) OPTION 1: go to: https://github.com/oxford-pharmacoepi/CohortDiagnosticsTemplate and click the green button: Use this template --> Create new repository
-  1.2) OPTION 2: create a new repository (https://github.com/new) and on repository templates select: ocford-pharmacoepi/CohortDiagnosticsTemplate
+   - OPTION 1: go to: https://github.com/oxford-pharmacoepi/CohortDiagnosticsTemplate and click the green button: Use this template --> Create new repository
+   - OPTION 2: create a new repository (https://github.com/new) and on repository templates select: ocford-pharmacoepi/CohortDiagnosticsTemplate
 2) Put a nice name to your repository and click create Repository (if you plan to share the code, better create the repository using as owner: oxford-pharmacoepi)
 3) Add the cohort definitions that you want to use in your cohort diagnostics in the Cohorts folder.
 4) Now the code is ready to run or share!
