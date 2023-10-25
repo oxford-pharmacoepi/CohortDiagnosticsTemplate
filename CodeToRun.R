@@ -56,8 +56,9 @@ cohortTableStem <- "..."
 # Run analysis ----
 source(here("RunAnalysis.R"))
 
-# Review results -----
+# merge results -----
 CohortDiagnostics::preMergeDiagnosticsFiles(dataFolder = here("Results"))
-CohortDiagnostics::launchDiagnosticsExplorer(dataFolder = here("Results"))
 
+# To publish and see the shiny use:
+# https://github.com/oxford-pharmacoepi/DiagnosticsExplorerTemplate
 
