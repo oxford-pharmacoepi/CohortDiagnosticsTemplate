@@ -59,6 +59,6 @@ source(here("RunAnalysis.R"))
 # merge results -----
 CohortDiagnostics::preMergeDiagnosticsFiles(dataFolder = here("Results"))
 
-# To publish and see the shiny use:
+# To visualize or publish the shiny use:
 # https://github.com/oxford-pharmacoepi/DiagnosticsExplorerTemplate
 
